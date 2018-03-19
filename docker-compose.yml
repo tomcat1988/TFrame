@@ -1,0 +1,8 @@
+version: '3'
+
+services:
+  tframe:
+    image: tframe
+    build:
+      context: .
+      dockerfile: TFrame\Dockerfile

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2005
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TFrame", "TFrame\TFrame.csproj", "{B261B151-5E65-4C28-8993-154DA4F3A12B}"
+EndProject
+Project("{E53339B2-1760-4266-BCC7-CA923CBCF16C}") = "docker-compose", "docker-compose.dcproj", "{F3191534-F6E1-41E5-99FA-D19A40E892A5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B261B151-5E65-4C28-8993-154DA4F3A12B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B261B151-5E65-4C28-8993-154DA4F3A12B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B261B151-5E65-4C28-8993-154DA4F3A12B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B261B151-5E65-4C28-8993-154DA4F3A12B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F3191534-F6E1-41E5-99FA-D19A40E892A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F3191534-F6E1-41E5-99FA-D19A40E892A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F3191534-F6E1-41E5-99FA-D19A40E892A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F3191534-F6E1-41E5-99FA-D19A40E892A5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8B187CBB-4D84-4F9B-B345-8BDECF765B37}
+	EndGlobalSection
+EndGlobal
